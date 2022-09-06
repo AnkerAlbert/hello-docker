@@ -1,1 +1,4 @@
-print("Something")
+print("Hi Gwen")
+a = 1
+b = 2
+print(a+b)
